@@ -7,7 +7,7 @@ I'm an intermediate web developer with over **3 years of experience**, currently
   <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats">
 </div>  
 
-- **LeetCode:** Solved **X+** problems | **[Profile](https://leetcode.com/u/y123an/)**
+- **LeetCode:** Solved **X+** problems | **[Profile](https://leetcode.com/y123an/)**
 - **Codeforces:** **Z** rating | **[Profile](https://codeforces.com/profile/Yoniab)**  
 
 
@@ -17,7 +17,7 @@ I'm an intermediate web developer with over **3 years of experience**, currently
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=y123an&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yoniab&theme=radical" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=y123an&theme=radical" height="165">
 </p>
 
 
