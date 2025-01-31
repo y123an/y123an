@@ -4,7 +4,7 @@ I'm an intermediate web developer with over **3 years of experience**, currently
 
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats">
+  <img src="https://leetcard.jacoblin.cool/y123an?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats">
 </div>  
 
 - **LeetCode:** Solved **X+** problems | **[Profile](https://leetcode.com/y123an/)**
