@@ -7,7 +7,7 @@ I'm an intermediate web developer with over **3 years of experience**, currently
   <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats">
 </div>  
 
-- **LeetCode:** Solved **X+** problems | **[Profile](https://leetcode.com/y123an)**
+- **LeetCode:** Solved **X+** problems | **[Profile](https://leetcode.com/u/y123an/)**
 - **Codeforces:** **Z** rating | **[Profile](https://codeforces.com/profile/Yoniab)**  
 
 
