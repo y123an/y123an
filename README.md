@@ -43,8 +43,8 @@ I'm an intermediate web developer with over **3 years of experience**, currently
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Yoniab&theme=dark" alt="Codeforces Stats">
 </div>
 
-- **LeetCode:** Solved **X+** problems | **[Profile](https://leetcode.com/y123an/)**
-- **Codeforces:** **Z** rating | **[Profile](https://codeforces.com/profile/Yoniab)**
+- **LeetCode:| **[Profile](https://leetcode.com/y123an/)**
+- **Codeforces:| **[Profile](https://codeforces.com/profile/Yoniab)**
 
 ---
 
@@ -57,31 +57,14 @@ I'm an intermediate web developer with over **3 years of experience**, currently
 
 ---
 
-## 🌟 Featured Projects
-
-### 1. **Project Name 1**
-- **Description:** A brief description of the project.
-- **Tech Stack:** React, Node.js, PostgreSQL
-- **[Live Demo](#) | [GitHub Repo](#)**
-
-### 2. **Project Name 2**
-- **Description:** A brief description of the project.
-- **Tech Stack:** Next.js, TypeScript, Docker
-- **[Live Demo](#) | [GitHub Repo](#)**
-
----
-
 ## 📫 Let's Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yohannes-arega/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:yohannes.arega.h@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </p>
 
