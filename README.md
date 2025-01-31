@@ -51,7 +51,7 @@ I'm an intermediate web developer with over **3 years of experience**, currently
 ## 📈 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=y123an&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="Yohannes's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=y123an&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Yohannes's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y123an&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
