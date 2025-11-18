@@ -1,6 +1,6 @@
 # Hi there, I'm Yohannes Arega 👋
 
-I'm an intermediate web developer with over **3 years of experience**, currently working as a **Lead Frontend Developer** at [Kuraz Tech](https://kuraztech.com). I'm also a proud **[A2SV](https://a2sv.org) graduate**, passionate about **problem-solving** and **building scalable web applications**.  
+I'm an intermediate web developer with over **3 years of experience**. I'm also a proud **[A2SV](https://a2sv.org) graduate**, passionate about **problem-solving** and **building scalable web applications**.  
 
 ---
 
